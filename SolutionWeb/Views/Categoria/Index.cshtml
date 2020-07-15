@@ -1,0 +1,26 @@
+﻿@model IEnumerable<BaseDeDatos.Entidades.Categoria>
+@{
+    ViewData["Title"] = "Categias";
+}
+
+
+
+<table class="table">
+  <thead class="thead-light">
+    <tr>
+      <th scope="col">Id</th>
+      <th scope="col">Nombre</th>
+    </tr>
+  </thead>
+  <tbody>
+   @foreach (var item in Model)
+{
+     <tr>
+      <td>@item.Id</td>
+      <td>@item.Nombre</td>
+    </tr>
+}
+             
+
+  </tbody>
+</table>

@@ -1,0 +1,9 @@
+D:\Desarrollo\Personal\WebPerfil\BaseDeDatos\bin\Debug\netstandard2.0\BaseDeDatos.deps.json
+D:\Desarrollo\Personal\WebPerfil\BaseDeDatos\bin\Debug\netstandard2.0\BaseDeDatos.dll
+D:\Desarrollo\Personal\WebPerfil\BaseDeDatos\bin\Debug\netstandard2.0\BaseDeDatos.pdb
+D:\Desarrollo\Personal\WebPerfil\BaseDeDatos\obj\Debug\netstandard2.0\BaseDeDatos.csprojAssemblyReference.cache
+D:\Desarrollo\Personal\WebPerfil\BaseDeDatos\obj\Debug\netstandard2.0\BaseDeDatos.AssemblyInfoInputs.cache
+D:\Desarrollo\Personal\WebPerfil\BaseDeDatos\obj\Debug\netstandard2.0\BaseDeDatos.AssemblyInfo.cs
+D:\Desarrollo\Personal\WebPerfil\BaseDeDatos\obj\Debug\netstandard2.0\BaseDeDatos.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Personal\WebPerfil\BaseDeDatos\obj\Debug\netstandard2.0\BaseDeDatos.dll
+D:\Desarrollo\Personal\WebPerfil\BaseDeDatos\obj\Debug\netstandard2.0\BaseDeDatos.pdb
